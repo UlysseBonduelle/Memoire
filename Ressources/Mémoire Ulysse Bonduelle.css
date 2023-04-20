@@ -1,0 +1,352 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+
+.mediaViewInfo {
+	--web-view-name: "index";
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: page_daccueil;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+
+html {
+	scroll-behavior: smooth;
+  }
+body{
+	overflow-x: hidden;
+    background-color:#f5f5f5 ;
+	
+}
+
+#page_daccueil {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: "page d'accueil";
+	--web-view-id: page_daccueil;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+
+#Rectangle_75 {
+	opacity: 1;
+	fill: #f5f5f5;
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 21599px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_15 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 0px;
+}
+#logo_ensci_noir {
+	position: absolute;
+	width: 120px;
+	height: 61px;
+	left: 140px;
+	top: 24px;
+	overflow: visible;
+}
+#Ulysse_Bonduelle__Mmoire_2022 {
+	left: 800px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 74px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Sous_la_direction__de_Pierre_B {
+	left: 1520px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 74px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+
+#Bienvenue {
+	left: 760px;
+	top: 160px;
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+
+#Avant_de_proceder {
+	left: 140px;
+	top: 310px;
+	position: absolute;
+	overflow: visible;
+	width: 1490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgb(0, 0, 0);
+	
+}
+
+#Pour_une_meilleure {
+	left: 140px;
+	top: 360px;
+	position: absolute;
+	overflow: visible;
+	width: 1490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgb(0, 0, 0);
+}
+
+#Pour_WindowsetMac {
+	left: 140px;
+	top: 450px;
+	position: absolute;
+	overflow: visible;
+	width: 1490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgb(0, 0, 0);
+	
+}
+
+#Pour_fleches {
+	left: 140px;
+	top: 550px;
+	position: absolute;
+	overflow: visible;
+	width: 1490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgb(0, 0, 0);
+	
+}
+
+#Composant_12__1_bmg {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1085px;
+	top: 540px;
+	overflow: visible;
+    box-shadow: #242424;
+}
+#Ellipse_2_bmh {
+	fill: rgb(245, 245, 245);
+}
+.Ellipse_2_bmh {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bmi {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bmi {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#Composant_13__1_bm {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1200px;
+	top: 540px;
+	overflow: visible;
+}
+#Groupe_25_bm {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bm {
+	fill: rgb(245, 245, 245);
+}
+.Ellipse_2_bm {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bnb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bnb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#Pour_burger {
+	left: 140px;
+	top: 650px;
+	position: absolute;
+	overflow: visible;
+	width: 1490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgb(0, 0, 0);
+	
+}
+.sidebarIconToggle {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    cursor: pointer;
+    position: fixed;
+    z-index: 99;
+    height: 100%;
+    width: 100%;
+    top: 705px;
+    left: 360px;
+    height: 42px;
+    width: 42px;
+}
+.spinner {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: absolute;
+    height: 5px;
+    width: 100%;
+    background-color: #776950;
+}
+.horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+.diagonal.part-1 {
+    position: relative;
+    transition: all 0.3s;
+    box-sizing: border-box;
+    float: left;
+}
+.diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+
+#diff_carto{
+	left: 140px;
+	top: 750px;
+	position: absolute;
+	overflow: visible;
+	width: 1490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgb(0, 0, 0);
+
+}
+
+#suite {
+	left: 140px;
+	top: 930px;
+	position: absolute;
+	overflow: visible;
+	width: 1490px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgb(0, 0, 0);
+	
+}

@@ -1,0 +1,6489 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+
+
+.mediaViewInfo {
+	--web-view-name: Page Chimères;
+	--web-view-id: Page_Chimres;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Page_Chimres;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+html {
+	scroll-behavior: smooth;
+  }
+body{
+	overflow-x: hidden;
+}
+#Page_Chimres {
+	position: absolute;
+	width: 1920px;
+	height: 37799px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Page Chimères;
+	--web-view-id: Page_Chimres;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_3 {
+	opacity: 0.06;
+	fill: rgba(119,105,80,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 37799px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_14__144 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1840px;
+	top: 995px;
+	overflow: visible;
+}
+#Composant_12__1 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1 {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1 {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_38 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 0px;
+}
+#Titre_et_sous_titre {
+	position: absolute;
+	width: 1364px;
+	height: 331px;
+	left: 278px;
+	top: 188px;
+	overflow: visible;
+}
+#Chimres {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1365px;
+	height: 279px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 230px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#cratures_composites {
+	left: 138px;
+	top: 276px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 55px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#Toutes_les_vrits_entrent_peut- {
+	left: 328px;
+	top: 739px;
+	position: absolute;
+	overflow: visible;
+	width: 1265px;
+	height: 61px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(179,131,46,1);
+}
+#n_Claire_De_Lamirande {
+	left: 240px;
+	top: 807px;
+	position: absolute;
+	overflow: visible;
+	width: 1265px;
+	height: 114px;
+	text-align: right;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(179,131,46,1);
+	text-transform: capitalize;
+}
+#Composant_14__145 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 1977px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_w {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_x {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_x {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_y {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_y {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25 {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_39 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 1080px;
+}
+#Composant_14__183 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 3057px;
+	overflow: visible;
+}
+#Rectangle_9_ {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_ {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ba {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ba {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ba {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ba {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ba {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bb {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bb {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bc {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bc {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 2160px;
+}
+#Composant_14__184 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 4137px;
+	overflow: visible;
+}
+#Rectangle_9_bf {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_bf {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_bg {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_bh {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bh {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bi {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bi {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_bj {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_bk {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bl {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bl {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bm {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bm {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_bn {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_bn {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 3240px;
+}
+#Composant_14__185 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 5217px;
+	overflow: visible;
+}
+#Rectangle_9_bp {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_bp {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_bq {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_br {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_br {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bs {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bs {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_bt {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_bu {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bv {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bv {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bw {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bw {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_bx {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_bx {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 4320px;
+}
+#Composant_14__186 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 6297px;
+	overflow: visible;
+}
+#Rectangle_9_bz {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_bz {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_b {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_b {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_b {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_b {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_b {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_b {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ca {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ca {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ca {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ca {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_b {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_b {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 5400px;
+}
+#Composant_14__187 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 7377px;
+	overflow: visible;
+}
+#Rectangle_9_b {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_b {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ca {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_cb {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_cb {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_cc {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_cc {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_cd {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ce {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_cf {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_cf {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_cg {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_cg {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_ch {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_ch {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 6480px;
+}
+#Composant_14__188 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 8457px;
+	overflow: visible;
+}
+#Rectangle_9_cj {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_cj {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ck {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_cl {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_cl {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_cm {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_cm {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_cn {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_co {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_cp {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_cp {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_cq {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_cq {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_cr {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_cr {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 7560px;
+}
+#Composant_14__189 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 9537px;
+	overflow: visible;
+}
+#Rectangle_9_ct {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_ct {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_cu {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_cv {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_cv {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_cw {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_cw {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_cx {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_cy {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_cz {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_cz {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_c {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_c {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_c {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_c {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 8640px;
+}
+#Composant_14__190 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 10617px;
+	overflow: visible;
+}
+#Rectangle_9_c {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_c {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_c {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_c {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_c {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_da {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_da {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_c {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_c {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_da {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_da {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_db {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_db {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_db {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_db {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 9720px;
+}
+#Composant_14__191 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 11697px;
+	overflow: visible;
+}
+#Rectangle_9_dd {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_dd {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_de {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_df {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_df {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_dg {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_dg {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_dh {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_di {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_dj {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_dj {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_dk {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_dk {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_dl {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_dl {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 10800px;
+}
+#Composant_14__192 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 12777px;
+	overflow: visible;
+}
+#Rectangle_9_dn {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_dn {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_do {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_dp {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_dp {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_dq {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_dq {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_dr {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ds {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_dt {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_dt {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_du {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_du {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_dv {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_dv {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 11880px;
+}
+#Composant_14__194 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 13857px;
+	overflow: visible;
+}
+#Rectangle_9_dx {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_dx {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_dy {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_dz {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_dz {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_d {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_d {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_d {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_d {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_d {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_d {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ea {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ea {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_d {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_d {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 12960px;
+}
+#Composant_14__195 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 14937px;
+	overflow: visible;
+}
+#Rectangle_9_d {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_d {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_d {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ea {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ea {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_eb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_eb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_eb {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ec {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ed {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ed {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ee {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ee {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_ef {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_ef {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 14040px;
+}
+#Composant_14__196 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 16017px;
+	overflow: visible;
+}
+#Rectangle_9_eh {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_eh {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ei {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ej {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ej {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ek {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ek {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_el {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_em {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_en {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_en {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_eo {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_eo {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_ep {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_ep {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 15120px;
+}
+#Composant_14__197 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 17097px;
+	overflow: visible;
+}
+#Rectangle_9_er {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_er {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_es {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_et {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_et {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_eu {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_eu {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ev {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ew {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ex {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ex {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ey {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ey {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_ez {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_ez {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 16200px;
+}
+#Composant_14__198 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 18177px;
+	overflow: visible;
+}
+#Rectangle_9_e {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_e {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_e {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_e {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_e {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_e {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_e {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_e {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_e {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_fa {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_fa {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_fa {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_fa {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_e {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_e {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 17280px;
+}
+#Composant_14__199 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 19257px;
+	overflow: visible;
+}
+#Rectangle_9_fb {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_fb {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_fc {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_fd {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_fd {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_fe {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_fe {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ff {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_fg {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_fh {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_fh {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_fi {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_fi {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_fj {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_fj {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 18360px;
+}
+#Composant_14__200 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 20337px;
+	overflow: visible;
+}
+#Rectangle_9_fl {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_fl {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_fm {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_fn {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_fn {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_fo {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_fo {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_fp {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_fq {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_fr {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_fr {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_fs {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_fs {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_ft {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_ft {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 19440px;
+}
+#Composant_14__201 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 21417px;
+	overflow: visible;
+}
+#Rectangle_9_fv {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_fv {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_fw {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_fx {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_fx {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_fy {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_fy {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_fz {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_f {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_f {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_f {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_f {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_f {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_f {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_f {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 20520px;
+}
+#Composant_14__202 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 22497px;
+	overflow: visible;
+}
+#Rectangle_9_f {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_f {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_f {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ga {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ga {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ga {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ga {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_f {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ga {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_gb {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_gb {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_gc {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_gc {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_gd {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_gd {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 21600px;
+}
+#Composant_14__203 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 23577px;
+	overflow: visible;
+}
+#Rectangle_9_gf {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_gf {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_gg {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_gh {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_gh {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_gi {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_gi {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_gj {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_gk {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_gl {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_gl {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_gm {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_gm {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_gn {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_gn {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 22680px;
+}
+#Composant_14__204 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 24657px;
+	overflow: visible;
+}
+#Rectangle_9_gp {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_gp {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_gq {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_gr {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_gr {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_gs {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_gs {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_gt {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_gu {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_gv {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_gv {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_gw {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_gw {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_gx {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_gx {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 23760px;
+}
+#Composant_14__205 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 25737px;
+	overflow: visible;
+}
+#Rectangle_9_gz {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_gz {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_g {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_g {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_g {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_g {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_g {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_g {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_g {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ha {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ha {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ha {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ha {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_g {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_g {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 24840px;
+}
+#Composant_14__206 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 26817px;
+	overflow: visible;
+}
+#Rectangle_9_g {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_g {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ha {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_hb {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_hb {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_hc {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_hc {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_hd {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_he {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_hf {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_hf {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_hg {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_hg {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_hh {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_hh {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 25920px;
+}
+#Composant_14__207 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 27897px;
+	overflow: visible;
+}
+#Rectangle_9_hj {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_hj {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_hk {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_hl {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_hl {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_hm {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_hm {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_hn {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ho {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_hp {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_hp {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_hq {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_hq {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_hr {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_hr {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 27000px;
+}
+#Composant_14__208 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 28977px;
+	overflow: visible;
+}
+#Rectangle_9_ht {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_ht {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_hu {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_hv {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_hv {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_hw {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_hw {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_hx {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_hy {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_hz {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_hz {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_h {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_h {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_h {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_h {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 28080px;
+}
+#Composant_14__209 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 30057px;
+	overflow: visible;
+}
+#Rectangle_9_h {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_h {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_h {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_h {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_h {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ia {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ia {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_h {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_h {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ia {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ia {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ib {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ib {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_ib {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_ib {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 29160px;
+}
+#Composant_14__210 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 31137px;
+	overflow: visible;
+}
+#Rectangle_9_id {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_id {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ie {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_if {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_if {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ig {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ig {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ih {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ii {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ij {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ij {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ik {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ik {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_il {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_il {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 30240px;
+}
+#Composant_14__211 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 32217px;
+	overflow: visible;
+}
+#Rectangle_9_in {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_in {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_io {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ip {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ip {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_iq {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_iq {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ir {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_is {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_it {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_it {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_iu {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_iu {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_iv {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_iv {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 31320px;
+}
+#Composant_14__212 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 33297px;
+	overflow: visible;
+}
+#Rectangle_9_ix {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_ix {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_iy {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_iz {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_iz {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_i {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_i {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_i {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_i {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_i {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_i {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ja {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ja {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_i {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_i {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 32400px;
+}
+#Composant_14__213 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 34377px;
+	overflow: visible;
+}
+#Rectangle_9_i {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_i {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_i {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ja {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ja {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_jb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_jb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_jb {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_jc {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_jd {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_jd {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_je {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_je {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_jf {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_jf {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 33480px;
+}
+#Composant_14__214 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 35456px;
+	overflow: visible;
+}
+#Rectangle_9_jh {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_jh {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ji {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_jj {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_jj {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_jk {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_jk {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_jl {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_jm {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_jn {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_jn {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_jo {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_jo {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_jp {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_jp {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 34560px;
+}
+#Composant_14__215 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 36537px;
+	overflow: visible;
+}
+#Rectangle_9_jr {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_jr {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_js {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_jt {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_jt {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ju {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ju {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_jv {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_jw {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_jx {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_jx {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_jy {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_jy {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_74_jz {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_jz {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 35640px;
+}
+#Groupe_61 {
+	position: absolute;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 36720px;
+	overflow: visible;
+}
+#Rectangle_74_j {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_j {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Ce_chapitre_du_mmoire_porte_su {
+	left: 140px;
+	top: 1080px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 563px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#papillon {
+	position: absolute;
+	width: 506px;
+	height: 359px;
+	left: 140px;
+	top: 1668px;
+	overflow: visible;
+}
+#taylor_muhl {
+	position: absolute;
+	width: 551px;
+	height: 359px;
+	left: 700px;
+	top: 1668px;
+	overflow: visible;
+}
+#paon {
+	position: absolute;
+	width: 478px;
+	height: 359px;
+	left: 1302px;
+	top: 1668px;
+	overflow: visible;
+}
+#Chimrie_gynandromorphique_chez {
+	left: 140px;
+	top: 2040px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	height: 112px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Taylor_Alexis_Muhl_chanteuse_e {
+	left: 700px;
+	top: 2040px;
+	position: absolute;
+	overflow: visible;
+	width: 552px;
+	height: 112px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Paon_bleu_Pavo_cristatus_chimr {
+	left: 1302px;
+	top: 2040px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	height: 96px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#En_palontologie_les_chimres_so {
+	left: 140px;
+	top: 2160px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 118px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Quel_que_soit_le_domaine_y_fai {
+	left: 140px;
+	top: 2867px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 362px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Dessin_dun_squelette_de_bronto {
+	left: 400px;
+	top: 2815px;
+	position: absolute;
+	overflow: visible;
+	width: 1142px;
+	height: 36px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#squelette_de_brontosaurus {
+	position: absolute;
+	width: 1148px;
+	height: 469px;
+	left: 386px;
+	top: 2321px;
+	overflow: visible;
+}
+#En_zoologie_les_chimaeriformes {
+	left: 140px;
+	top: 3305px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 568px;
+	line-height: 35px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Gravure_zoologique_de_requin_b {
+	left: 178px;
+	top: 4242px;
+	position: absolute;
+	overflow: visible;
+	width: 577px;
+	height: 36px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Gravure_zoologique_de_chimre {
+	left: 909px;
+	top: 4242px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	height: 36px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Gravure_zoologique_de_raie {
+	left: 1448px;
+	top: 4242px;
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 36px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Un_poisson_nomm_Chimaera {
+	left: 140px;
+	top: 3240px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#chimaera {
+	position: absolute;
+	width: 452.9px;
+	height: 350px;
+	left: 883px;
+	top: 3873px;
+	overflow: visible;
+}
+#shark {
+	position: absolute;
+	width: 651.498px;
+	height: 350px;
+	left: 140px;
+	top: 3873px;
+	overflow: visible;
+}
+#raie {
+	position: absolute;
+	width: 352.834px;
+	height: 350px;
+	left: 1427.166px;
+	top: 3873px;
+	overflow: visible;
+}
+#Les_plus_proches_anctres_commu {
+	left: 140px;
+	top: 4385px;
+	position: absolute;
+	overflow: visible;
+	width: 986px;
+	height: 771px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Cet_attrait_pour_les_spcimens_ {
+	left: 140px;
+	top: 5164px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 191px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Phoque_et_sirne_Gravure_compar {
+	left: 1099px;
+	top: 6371px;
+	position: absolute;
+	overflow: visible;
+	width: 619px;
+	height: 77px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Daguerrotype_de_Phineas_Taylor {
+	left: 1244px;
+	top: 5019px;
+	position: absolute;
+	overflow: visible;
+	width: 454px;
+	height: 99px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Gravure_de_la_sirne_de_Fiji_pr {
+	left: 217px;
+	top: 6388px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 60px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Cabinets_de_curiosits_et_chimr {
+	left: 140px;
+	top: 4320px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#phoque {
+	position: absolute;
+	width: 640px;
+	height: 461px;
+	left: 1078px;
+	top: 5410px;
+	overflow: visible;
+}
+#sirne {
+	position: absolute;
+	width: 640px;
+	height: 461px;
+	left: 1077px;
+	top: 5890px;
+	overflow: visible;
+}
+#barnum {
+	position: absolute;
+	width: 453px;
+	height: 619px;
+	left: 1244px;
+	top: 4385px;
+	overflow: visible;
+}
+#fiji_mermaid {
+	position: absolute;
+	width: 674px;
+	height: 307px;
+	left: 217px;
+	top: 6061px;
+	overflow: visible;
+}
+#Un_des_exemples_les_plus_connu {
+	left: 140px;
+	top: 5401px;
+	position: absolute;
+	overflow: visible;
+	width: 854px;
+	height: 643px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Avant_lavnement_de_Barnum_ces_ {
+	left: 140px;
+	top: 6545px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 421px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Ornithorynque_ {
+	left: 904px;
+	top: 7460px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#tude_comparative_de_trois_chim {
+	left: 140px;
+	top: 6480px;
+	position: absolute;
+	overflow: visible;
+	width: 691px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#graphic-animal-boho-illustrati {
+	position: absolute;
+	width: 486px;
+	height: 486px;
+	left: 140px;
+	top: 6974px;
+	overflow: visible;
+}
+#Platypus_sketch_by_Hmich176 {
+	position: absolute;
+	width: 427px;
+	height: 432px;
+	left: 759px;
+	top: 6998px;
+	overflow: visible;
+}
+#jackalope {
+	position: absolute;
+	width: 393px;
+	height: 541px;
+	left: 1387px;
+	top: 6947px;
+	overflow: visible;
+}
+#Wolpertinger {
+	left: 304px;
+	top: 7460px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Jackalope_k {
+	left: 1509px;
+	top: 7460px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Le_Jackalope_est_une_chimre_co {
+	left: 140px;
+	top: 7560px;
+	position: absolute;
+	overflow: visible;
+	width: 1018px;
+	height: 1046px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Gravure_zoologique_de_Jackalop {
+	left: 1171px;
+	top: 8049px;
+	position: absolute;
+	overflow: visible;
+	width: 610px;
+	height: 36px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Livre_atteint_de_papillomaviru {
+	left: 1171px;
+	top: 8542px;
+	position: absolute;
+	overflow: visible;
+	width: 610px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#papilloma {
+	position: absolute;
+	width: 609px;
+	height: 432.685px;
+	left: 1171px;
+	top: 8097px;
+	overflow: visible;
+}
+#lepus_cornutus {
+	position: absolute;
+	width: 609px;
+	height: 476px;
+	left: 1171px;
+	top: 7561px;
+	overflow: visible;
+}
+#n_le_Wolpertinger_malgr_ses_re {
+	left: 140px;
+	top: 8640px;
+	position: absolute;
+	overflow: visible;
+	width: 967px;
+	height: 1000px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Le_livre_1502_Aquarelle_dAlbre {
+	left: 1166px;
+	top: 9013px;
+	position: absolute;
+	overflow: visible;
+	width: 615px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Montage_taxidermique_dun_Wolpe {
+	left: 1267px;
+	top: 9620px;
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Albrecht_Drer_-_Hare_1502_-_Go {
+	position: absolute;
+	width: 312px;
+	height: 345px;
+	left: 1166px;
+	top: 8656px;
+	overflow: visible;
+}
+#Wolpertinger_ld {
+	position: absolute;
+	width: 306px;
+	height: 345px;
+	left: 1474px;
+	top: 8656px;
+	overflow: visible;
+}
+#n_48830-7-medium {
+	position: absolute;
+	width: 415px;
+	height: 520px;
+	left: 1267px;
+	top: 9088px;
+	overflow: visible;
+}
+#Lornithorynque_Ornithorhynchus {
+	left: 140px;
+	top: 9720px;
+	position: absolute;
+	overflow: visible;
+	width: 988px;
+	height: 1020px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Premire_illustration_de_Platyp {
+	left: 1177px;
+	top: 10104px;
+	position: absolute;
+	overflow: visible;
+	width: 589px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Diagramme_listant_Les_caractri {
+	left: 1166px;
+	top: 10662px;
+	position: absolute;
+	overflow: visible;
+	width: 589px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Platypus_Ornithorhynchus_anati {
+	position: absolute;
+	width: 588px;
+	height: 296px;
+	left: 1177px;
+	top: 9795px;
+	overflow: visible;
+}
+#platupusdiagram {
+	position: absolute;
+	width: 588px;
+	height: 412.822px;
+	left: 1166px;
+	top: 10236px;
+	overflow: visible;
+}
+#Lartiste_Joan_Fontcuberta_dans {
+	left: 140px;
+	top: 10800px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 394px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Solenoglypha_polypodida_serpen {
+	left: 188px;
+	top: 11761px;
+	position: absolute;
+	overflow: visible;
+	width: 1041px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Alopex_stultus_bipde_poilu__tt {
+	left: 1269px;
+	top: 11761px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#serpent_foncuberta {
+	position: absolute;
+	width: 1041px;
+	height: 518px;
+	left: 188px;
+	top: 11243px;
+	overflow: visible;
+}
+#fontcuberta-fauna5_600 {
+	position: absolute;
+	width: 464px;
+	height: 518px;
+	left: 1269px;
+	top: 11243px;
+	overflow: visible;
+}
+#Avant_danalyser_les_diffrents_ {
+	left: 140px;
+	top: 11945px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 985px;
+	line-height: 35px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Dessin_de_chimre_Jacopo_Ligozz {
+	left: 1326.084px;
+	top: 12861.185px;
+	position: absolute;
+	overflow: visible;
+	width: 353.916px;
+	height: 60.673828125px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Tableau_de_classement_des_diff {
+	left: 865px;
+	top: 13905.435px;
+	position: absolute;
+	overflow: visible;
+	width: 850px;
+	height: 60.673828125px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Analyse_des_chimres_dun_point_ {
+	left: 140px;
+	top: 11880px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Ligozzi_Una_quimera {
+	position: absolute;
+	width: 389.916px;
+	height: 296.244px;
+	left: 1289.084px;
+	top: 12556.506px;
+	overflow: visible;
+}
+#mid_00707806_001 {
+	position: absolute;
+	width: 389.541px;
+	height: 524.565px;
+	left: 1289.459px;
+	top: 11950px;
+	overflow: visible;
+}
+#Bellrophon_combat_la_chimre_Be {
+	left: 1289px;
+	top: 12483px;
+	position: absolute;
+	overflow: visible;
+	width: 391px;
+	height: 65px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Typhon_gravure_par_Wenceslaus_ {
+	left: 140px;
+	top: 12861.185px;
+	position: absolute;
+	overflow: visible;
+	width: 422.488px;
+	height: 84.11026000976562px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Reprsentation_dchidna_dans_les {
+	left: 713.939px;
+	top: 12861.185px;
+	position: absolute;
+	overflow: visible;
+	width: 435.084px;
+	height: 68.7177734375px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Echidna_-_parco_dei_mostri {
+	position: absolute;
+	width: 434px;
+	height: 296.143px;
+	left: 713.939px;
+	top: 12556.607px;
+	overflow: visible;
+}
+#n_280px-Wenceslas_Hollar_-_The {
+	position: absolute;
+	width: 421.404px;
+	height: 295.935px;
+	left: 140px;
+	top: 12556.815px;
+	overflow: visible;
+}
+#Aprs_avoir_explor_le_rapport_q {
+	left: 140px;
+	top: 13025px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 186px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Le_graphique_prsent_ici_permet {
+	left: 140px;
+	top: 13256px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 718px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#De_quoi_sont_faites_les_chimre {
+	left: 140px;
+	top: 12960px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Capture_croisement {
+	position: absolute;
+	width: 849px;
+	height: 641px;
+	left: 865px;
+	top: 13256px;
+	overflow: visible;
+}
+#Ainsi_notre_chimre_antique_gre {
+	left: 140px;
+	top: 14040px;
+	position: absolute;
+	overflow: visible;
+	width: 1105px;
+	height: 1046px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Illustration_de_chimre_grecque {
+	left: 1299px;
+	top: 14432px;
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Illustration_dAmmout_egyptien {
+	left: 1299px;
+	top: 14963px;
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 63px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n_ {
+	position: absolute;
+	width: 481px;
+	height: 303px;
+	left: 1299px;
+	top: 14100px;
+	overflow: visible;
+}
+#aPZQ7KR_460s {
+	position: absolute;
+	width: 460px;
+	height: 355px;
+	left: 1320px;
+	top: 14579px;
+	overflow: visible;
+}
+#n_Les_mammifres_carnivores_que {
+	left: 140px;
+	top: 15120px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 1005px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Gravure_de_lycanthrope_dvorant {
+	left: 1382px;
+	top: 15578px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 97px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Kyoto_Nue_Taibi_ukiyo-e_par_Ut {
+	left: 1382px;
+	top: 16090px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Loup_garou {
+	position: absolute;
+	width: 282.544px;
+	height: 426.288px;
+	left: 1382px;
+	top: 15152px;
+	overflow: visible;
+}
+#Kuniyoshi_Taiba_The_End {
+	position: absolute;
+	width: 282.544px;
+	height: 407.006px;
+	left: 1382px;
+	top: 15683.289px;
+	overflow: visible;
+}
+#Les_mammifres_herbivores_compt {
+	left: 140px;
+	top: 16200px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 486px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Satyres_ivres__psykter_attique {
+	left: 1051px;
+	top: 17173px;
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Thse_triomphant_du_minotaure_p {
+	left: 278px;
+	top: 17173px;
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Thesee_et_le_Minotaure_ {
+	position: absolute;
+	width: 620.69px;
+	height: 450px;
+	left: 270px;
+	top: 16718px;
+	overflow: visible;
+}
+#n_280px-Komos_Douris_BM_E768_n {
+	position: absolute;
+	width: 598.753px;
+	height: 450px;
+	left: 1051.247px;
+	top: 16718px;
+	overflow: visible;
+}
+#Deux_dragons_dtail_du_rouleau_ {
+	left: 201px;
+	top: 18289px;
+	position: absolute;
+	overflow: visible;
+	width: 803px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Tatouage_dyeux_de_Mduse {
+	left: 1106px;
+	top: 18290px;
+	position: absolute;
+	overflow: visible;
+	width: 607px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Les_reptiles_en_particulier_le {
+	left: 140px;
+	top: 17280px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 637px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#SC203248 {
+	position: absolute;
+	width: 802px;
+	height: 350px;
+	left: 201px;
+	top: 17931px;
+	overflow: visible;
+}
+#Sans-titre {
+	position: absolute;
+	width: 606px;
+	height: 341px;
+	left: 1114px;
+	top: 17936px;
+	overflow: visible;
+}
+#Statue_de_la_divinit_Maya_Cama {
+	left: 1307px;
+	top: 19296px;
+	position: absolute;
+	overflow: visible;
+	width: 474px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Gravure_dhippogriffe_daprs_Gus {
+	left: 140px;
+	top: 19301px;
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Lucifer_aux_ailes_de_plumes_ou {
+	left: 604px;
+	top: 19289px;
+	position: absolute;
+	overflow: visible;
+	width: 610px;
+	height: 127px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Les_oiseaux_et_la_chauve-souri {
+	left: 140px;
+	top: 18360px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 533px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_024px-Orlando_Furioso_20 {
+	position: absolute;
+	width: 380px;
+	height: 385px;
+	left: 140px;
+	top: 18906px;
+	overflow: visible;
+}
+#Fallen_Angel_Alexandre_Cabanel {
+	position: absolute;
+	width: 606px;
+	height: 384px;
+	left: 604px;
+	top: 18905px;
+	overflow: visible;
+}
+#n_280px-Musum_dhistoire_nature {
+	position: absolute;
+	width: 473px;
+	height: 380px;
+	left: 1307px;
+	top: 18906px;
+	overflow: visible;
+}
+#GustaveDoreParadiseLostSatanPr {
+	position: absolute;
+	width: 338px;
+	height: 383px;
+	left: 875px;
+	top: 18906px;
+	overflow: visible;
+}
+#Ulysse_et_les_sirnes_par_Herbe {
+	left: 186.878px;
+	top: 20450px;
+	position: absolute;
+	overflow: visible;
+	width: 639px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Sculpture_de_Triton_et_dHippoc {
+	left: 938px;
+	top: 20450px;
+	position: absolute;
+	overflow: visible;
+	width: 796px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Les_poissons_amphibiens_et_aut {
+	left: 140px;
+	top: 19440px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 453px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Draper_Herbert_James_Ulysses_a {
+	position: absolute;
+	width: 638px;
+	height: 526px;
+	left: 186.878px;
+	top: 19911px;
+	overflow: visible;
+}
+#Piazza_di_trevi_-_fontana_di_t {
+	position: absolute;
+	width: 795.245px;
+	height: 526px;
+	left: 937.878px;
+	top: 19911px;
+	overflow: visible;
+}
+#Myrmecoleon_du_Hortus_Sanitati {
+	left: 140px;
+	top: 21488px;
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Manticore_conqurante_par_Chris {
+	left: 1212px;
+	top: 21488px;
+	position: absolute;
+	overflow: visible;
+	width: 569px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Portrait_de_fe_par_Sophie_Geng {
+	left: 669px;
+	top: 21488px;
+	position: absolute;
+	overflow: visible;
+	width: 365px;
+	height: 70px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Les_insectes_ne_constituent_qu {
+	left: 140px;
+	top: 20520px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 399px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Myrmecoleon_1491 {
+	position: absolute;
+	width: 389px;
+	height: 456px;
+	left: 140px;
+	top: 20993px;
+	overflow: visible;
+}
+#n_4954 {
+	position: absolute;
+	width: 635px;
+	height: 460px;
+	left: 1145px;
+	top: 20985px;
+	overflow: visible;
+}
+#n_00px-SophieAndersonTakethefa {
+	position: absolute;
+	width: 364px;
+	height: 456px;
+	left: 669px;
+	top: 20985px;
+	overflow: visible;
+}
+#Lhomme_du_puit_fresque_de_la_g {
+	left: 1166px;
+	top: 22534px;
+	position: absolute;
+	overflow: visible;
+	width: 615px;
+	height: 76px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n_Les_primates_et_lhumain_sont {
+	left: 140px;
+	top: 21600px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 1010px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#homme_du_puits_dessin {
+	position: absolute;
+	width: 614px;
+	height: 452px;
+	left: 1166px;
+	top: 22049px;
+	overflow: visible;
+}
+#homme_du_puits {
+	position: absolute;
+	width: 614px;
+	height: 346px;
+	left: 1166px;
+	top: 21646px;
+	overflow: visible;
+}
+#Comment_les_chimres_rsonnent-e {
+	left: 140px;
+	top: 22680px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#La_raison_de_pourquoi_les_chim {
+	left: 140px;
+	top: 22745px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 1009px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Le_dragon_Popularit_et_obsoles {
+	left: 140px;
+	top: 23760px;
+	position: absolute;
+	overflow: visible;
+	width: 1174px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#Le_statut_monstrueux_du_dragon {
+	left: 140px;
+	top: 23825px;
+	position: absolute;
+	overflow: visible;
+	width: 985px;
+	height: 897px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_69056 {
+	position: absolute;
+	width: 381px;
+	height: 469px;
+	left: 1296px;
+	top: 23774px;
+	overflow: visible;
+}
+#Amulette_reprsentant_un_Zhulon {
+	left: 1275px;
+	top: 24243px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 76px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Combat_de_Marduk_contre_le_dra {
+	left: 1244px;
+	top: 24646px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	height: 76px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Chaos_Monster_and_Sun_God {
+	position: absolute;
+	width: 464px;
+	height: 325px;
+	left: 1244px;
+	top: 24321px;
+	overflow: visible;
+}
+#Quetzalcatl_Apophis_Tarasque_L {
+	left: 140px;
+	top: 24840px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 191px;
+	line-height: 35px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Si_la_description_de_ce_monstr {
+	left: 140px;
+	top: 24723px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 80px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Quetzalcatl_dans_le_Codex_Tell {
+	left: 140px;
+	top: 25401px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	height: 76px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Le_dieu_du_soleil_R_pourfend_l {
+	left: 598px;
+	top: 25401px;
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Statue_de_la_Tarasque__Tarasco {
+	left: 983px;
+	top: 25401px;
+	position: absolute;
+	overflow: visible;
+	width: 478px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Destruction_du_Lviathan_gravur {
+	left: 1504px;
+	top: 25401px;
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#TarasqueStatue {
+	position: absolute;
+	width: 477px;
+	height: 352px;
+	left: 983px;
+	top: 25043px;
+	overflow: visible;
+}
+#Apep_2 {
+	position: absolute;
+	width: 343px;
+	height: 353px;
+	left: 598px;
+	top: 25044px;
+	overflow: visible;
+}
+#Quetzalcoatl_telleriano {
+	position: absolute;
+	width: 416px;
+	height: 354px;
+	left: 140px;
+	top: 25044px;
+	overflow: visible;
+}
+#Destruction_of_Leviathan {
+	position: absolute;
+	width: 279px;
+	height: 351px;
+	left: 1501px;
+	top: 25043px;
+	overflow: visible;
+}
+#Le_dragon_est_bien_videmment_p {
+	left: 140px;
+	top: 25920px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 507px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Au_cours_de_ce_mmoire_jai_eu_l {
+	left: 140px;
+	top: 25505px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 379px;
+	line-height: 35px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Cette_figure_mythologique_du_d {
+	left: 140px;
+	top: 27000px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 1037px;
+	line-height: 37px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Jarre__dcor_de_dragon_Dynastie {
+	left: 774px;
+	top: 26889px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Mdaille_en_argent_dpeignant__S {
+	left: 259px;
+	top: 26889px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Figurine_articule_du_dragon_Kr {
+	left: 1287px;
+	top: 26889px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#main-image {
+	position: absolute;
+	width: 420px;
+	height: 413px;
+	left: 734px;
+	top: 26458px;
+	overflow: visible;
+}
+#n_3A91BB8_3 {
+	position: absolute;
+	width: 414px;
+	height: 414px;
+	left: 1248px;
+	top: 26458px;
+	overflow: visible;
+}
+#s-l500 {
+	position: absolute;
+	width: 414px;
+	height: 414px;
+	left: 259px;
+	top: 26459px;
+	overflow: visible;
+}
+#Aprs_avoir_analys_chacun_des_d {
+	left: 140px;
+	top: 28145px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 805px;
+	line-height: 35px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Graphique_dorganisation_des_cr {
+	left: 1106px;
+	top: 28829px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Comment_sont_construites_les_c {
+	left: 140px;
+	top: 28080px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#therianthropie {
+	position: absolute;
+	width: 674px;
+	height: 655px;
+	left: 1106px;
+	top: 28145px;
+	overflow: visible;
+}
+#Compte_tenu_de_leur_statut_ima {
+	left: 140px;
+	top: 29160px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 414px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Pour_chaque_chimre_sa_localisa {
+	left: 140px;
+	top: 28952px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 177px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Homme__tte_de_chien_Planche_ex {
+	left: 262px;
+	top: 30140px;
+	position: absolute;
+	overflow: visible;
+	width: 483px;
+	height: 67px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Illustration_de_la_fable_Le_lo {
+	left: 1143px;
+	top: 30140px;
+	position: absolute;
+	overflow: visible;
+	width: 483px;
+	height: 67px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n_00px-Grandville_leLoup_Et_Le {
+	position: absolute;
+	width: 499px;
+	height: 542px;
+	left: 1126px;
+	top: 29589px;
+	overflow: visible;
+}
+#img-1-small517 {
+	position: absolute;
+	width: 361px;
+	height: 542px;
+	left: 307px;
+	top: 29589px;
+	overflow: visible;
+}
+#Corps_dhomme_portant_une_tte_d {
+	left: 140px;
+	top: 30240px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 279px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Thoth_Deux_fois_Grand_dieu_de_ {
+	left: 1160px;
+	top: 31192px;
+	position: absolute;
+	overflow: visible;
+	width: 483px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Thse_combattant_le_Minotaure_M {
+	left: 278px;
+	top: 31187px;
+	position: absolute;
+	overflow: visible;
+	width: 761px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Thoout_Thoth_Deux_fois_Grand_l {
+	position: absolute;
+	width: 481px;
+	height: 647px;
+	left: 1161px;
+	top: 30531px;
+	overflow: visible;
+}
+#minotaure_sculpture {
+	position: absolute;
+	width: 760px;
+	height: 642px;
+	left: 278px;
+	top: 30531px;
+	overflow: visible;
+}
+#Corps_humain_intact_portant_de {
+	left: 140px;
+	top: 31320px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 297px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#lArchange_Michael_en_habits_mi {
+	left: 1266px;
+	top: 32289px;
+	position: absolute;
+	overflow: visible;
+	width: 435px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Huldra_Theodor_Kittelsen_1891- {
+	left: 203px;
+	top: 32289px;
+	position: absolute;
+	overflow: visible;
+	width: 1004px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Huldra-Theodor_Kittelsen {
+	position: absolute;
+	width: 1003px;
+	height: 639px;
+	left: 203px;
+	top: 31618px;
+	overflow: visible;
+}
+#GuidoReni_MichaelDefeatsSatan {
+	position: absolute;
+	width: 434px;
+	height: 640px;
+	left: 1266px;
+	top: 31617px;
+	overflow: visible;
+}
+#Buste_humain_sur_corps_danimal {
+	left: 140px;
+	top: 32400px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 457px;
+	line-height: 35px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#LEducation_dAchille_par_le_cen {
+	left: 1190px;
+	top: 33384px;
+	position: absolute;
+	overflow: visible;
+	width: 452px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Sirne__deux_queues_Illustratio {
+	left: 277px;
+	top: 33384px;
+	position: absolute;
+	overflow: visible;
+	width: 726px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#achille_et_chiron {
+	position: absolute;
+	width: 433px;
+	height: 529px;
+	left: 1190px;
+	top: 32845px;
+	overflow: visible;
+}
+#sirne_2_queues {
+	position: absolute;
+	width: 687px;
+	height: 521px;
+	left: 329px;
+	top: 32845px;
+	overflow: visible;
+}
+#Tte_humaine_sur_corps_danimal_ {
+	left: 140px;
+	top: 33481px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 351px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Harpie_froce_Harpia_harpyja {
+	left: 1334px;
+	top: 34425px;
+	position: absolute;
+	overflow: visible;
+	width: 396px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Sirin_droite_and_Alkonost_gauc {
+	left: 175px;
+	top: 34425px;
+	position: absolute;
+	overflow: visible;
+	width: 1029px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Vasnetsov_Sirin_Alkonost {
+	position: absolute;
+	width: 1028px;
+	height: 558px;
+	left: 175px;
+	top: 33836px;
+	overflow: visible;
+}
+#DyJOO1aW0AEWCfK {
+	position: absolute;
+	width: 395px;
+	height: 558px;
+	left: 1334px;
+	top: 33836px;
+	overflow: visible;
+}
+#Genre_de_la_partie_humaine_En_ {
+	left: 140px;
+	top: 34560px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 414px;
+	line-height: 35px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#dipe_et_le_sphynx_Peinture_de_ {
+	left: 1174px;
+	top: 35538px;
+	position: absolute;
+	overflow: visible;
+	width: 372px;
+	height: 88px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Satyre_ithyphallique_Fin_VIe_s {
+	left: 370px;
+	top: 35538px;
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	height: 88px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n_053485301_1_3_QjCVEMNs {
+	position: absolute;
+	width: 399px;
+	height: 549px;
+	left: 1146px;
+	top: 34980px;
+	overflow: visible;
+}
+#Statue_of_a_Satyr {
+	position: absolute;
+	width: 412px;
+	height: 549px;
+	left: 376px;
+	top: 34980px;
+	overflow: visible;
+}
+#Si_toutes_ces_crature_prsenten {
+	left: 140px;
+	top: 35640px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 993px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#construction_chimere{
+	left:	0px;
+	top: 36758px;
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 993px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#proof_of_concept_croisement {
+	position: absolute;
+	width: 1705px;
+	height: 991px;
+	left: 108px;
+	top: 36758px;
+	overflow: visible;
+}
+#Composant_13__6 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1840px;
+	top: 37609px;
+	overflow: visible;
+}
+#Groupe_25_o {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_o {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_o {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_o {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_o {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_11__2 {
+	position: absolute;
+	width: 1812px;
+	height: 96px;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_2 {
+	position: absolute;
+	width: 1812px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_12 {
+	position: absolute;
+	width: 1705px;
+	height: 96px;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+#Chimres_pc {
+	left: 689px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(179,131,46,1);
+}
+#Croque-mitaines {
+	left: 998px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 37px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page_Croquemitaines.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Introduction {
+	left: 32px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: page_d_accueil.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Tratologie {
+	left: 1445px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page_Teratologie.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+
+ /*atelier drag and drop*/
+
+ .barre_animaux{
+    margin-top: 0px;
+    margin-left: 8%;
+    margin-bottom: 1%;
+    height: 150px;
+    width: 97%;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+   
+    overflow-x:scroll;
+    display: flex;
+    flex-wrap:nowrap;
+    flex-direction:row;
+    
+}
+
+.img_animaux{
+    height: 100%; 
+    padding-left: 1%;
+    padding-right: 2%; 
+    padding-top: 5px;
+}
+
+
+ .container_parties_canvas{
+    width: 100%;
+    height: 0px;
+    margin-left: 8%;
+    background-color: #ffffff;
+  
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:left;
+    align-items:center;   
+}
+#barre_vierge{
+    height: 800px;
+    width: 10%;
+    margin-right: 1%;
+    position:static;
+    background-color: rgb(255, 255, 255);
+    visibility: visible;
+}
+
+#barre_pleine{
+    position:absolute;
+    width: 100%;
+}
+
+#barre_femme{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: visible;
+
+}
+
+#barre_homme{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_chevre{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position:absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+}
+
+#barre_cheval{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_vache{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_elephant{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_rhino{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_lion{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_panther{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_chat{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_chien{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_loup1{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_loup2{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_aigle{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_colibri{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_poulet{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_echassier{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_dodo{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_chauvesouris{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_crocodile{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_iguane{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_lezard{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_serpent{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_poisson1{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+#barre_poisson2{
+    height: 850px;
+    width: 10%;
+    margin-right: 1%;
+    position: absolute;
+    background-color: rgb(255, 255, 255); 
+    overflow-y:scroll;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items:center; 
+    visibility: hidden;
+
+}
+
+.img_parties{
+    width: 100%; 
+    padding: 5%;
+
+}
+
+.espace{ 
+    height: 810px;
+    width: 87%;
+    background-color: #ffffff;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+/*burger*/
+
+
+
+
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+}
+body {
+    background: #fff;
+    padding: 0;
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+}
+.header {
+    display: block;
+    margin: 0 auto;
+    width: 6%;
+    max-width: 100%;
+    box-shadow: none;
+    background-color: none;
+    position: fixed;
+    height: 60px!important;
+    overflow: hidden;
+    z-index: 10;
+}
+.main {
+    margin: 0 auto;
+    display: block;
+    height: 100%;
+    margin-top: 60px;
+}
+.mainInner{
+    display: table;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.mainInner div{
+    display:table-cell;
+    vertical-align: middle;
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 1.25px;
+}
+#sidebarMenu {
+    height: 100%;
+    position: fixed;
+    left: 0;
+    width: 500px;
+    margin-top: 60px;
+    transform: translateX(-500px);
+    transition: transform 250ms ease-in-out;
+    background:#f5f5f5 0%;
+	box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+}
+.sidebarMenuInner{
+    margin:0;
+    padding:0;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+}
+.sidebarMenuInner li{
+    list-style: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.sidebarMenuInner li a{
+    color: #776950;
+	font-family: cormorant;
+	font-size: 20px;
+	font-weight: 600;
+	transition-duration: .25s;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+	padding-left: 20px;
+}
+
+.sidebarMenuInner li:hover {
+	background-color: #fff;
+  }
+
+.sidebarMenuInner li h1 a{
+    color: #776950;
+	font-family: cormorant;
+	font-size: 25px;
+	font-weight: 1000;
+	transition-duration: .25s;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+input[type="checkbox"]:checked ~ #sidebarMenu {
+    transform: translateX(0);
+}
+
+input[type=checkbox] {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    display: none;
+}
+.sidebarIconToggle {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    cursor: pointer;
+    position: fixed;
+    z-index: 99;
+    height: 100%;
+    width: 100%;
+    top: 22px;
+    left: 15px;
+    height: 22px;
+    width: 22px;
+}
+.spinner {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background-color: #776950;
+}
+.horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+.diagonal.part-1 {
+    position: relative;
+    transition: all 0.3s;
+    box-sizing: border-box;
+    float: left;
+}
+.diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    opacity: 0;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-1 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(135deg);
+    margin-top: 8px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(-135deg);
+    margin-top: -9px;
+}

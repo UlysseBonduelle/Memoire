@@ -1,0 +1,6431 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+.mediaViewInfo {
+	--web-view-name: Page Teratologie;
+	--web-view-id: Page_Teratologie;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Page_Teratologie;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+html {
+	scroll-behavior: smooth;
+  }
+body{
+	overflow-x: hidden;
+}
+#Page_Teratologie {
+	position: absolute;
+	width: 1920px;
+	height: 38880px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Page Teratologie;
+	--web-view-id: Page_Teratologie;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_3_pi {
+	opacity: 0.06;
+	fill: rgba(119,105,80,1);
+}
+.Rectangle_3_pi {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 38879px;
+	left: 0px;
+	top: 1px;
+}
+#Composant_14__178 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1840px;
+	top: 996px;
+	overflow: visible;
+}
+#Composant_12__1_pk {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_pl {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_pl {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_pm {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_pm {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 0px;
+}
+#Composant_14__260 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 1977px;
+	overflow: visible;
+}
+#Rectangle_9_pp {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_pp {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_pq {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_pr {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_pr {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ps {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ps {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_pt {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_pu {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_pv {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_pv {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_pw {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_pw {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_px {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_px {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 1080px;
+}
+#Composant_14__261 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 3057px;
+	overflow: visible;
+}
+#Rectangle_9_pz {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_pz {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_p {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_p {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_p {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_p {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_p {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_p {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_p {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_qa {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_qa {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_qa {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_qa {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_p {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_p {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 2160px;
+}
+#Composant_14__262 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 4137px;
+	overflow: visible;
+}
+#Rectangle_9_p {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_p {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_qa {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_qb {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_qb {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_qc {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_qc {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_qd {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_qe {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_qf {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_qf {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_qg {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_qg {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_qh {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_qh {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 3240px;
+}
+#Composant_14__263 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 5217px;
+	overflow: visible;
+}
+#Rectangle_9_qj {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_qj {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_qk {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ql {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ql {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_qm {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_qm {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_qn {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_qo {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_qp {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_qp {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_qq {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_qq {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_qr {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_qr {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 4320px;
+}
+#Composant_14__264 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 6297px;
+	overflow: visible;
+}
+#Rectangle_9_qt {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_qt {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_qu {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_qv {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_qv {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_qw {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_qw {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_qx {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_qy {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_qz {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_qz {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_q {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_q {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_q {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_q {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 5400px;
+}
+#Composant_14__265 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 7377px;
+	overflow: visible;
+}
+#Rectangle_9_q {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_q {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_q {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_q {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_q {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ra {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ra {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_q {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_q {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ra {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ra {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_rb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_rb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_rb {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_rb {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 6480px;
+}
+#Composant_14__266 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 8457px;
+	overflow: visible;
+}
+#Rectangle_9_rd {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_rd {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_re {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_rf {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_rf {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_rg {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_rg {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_rh {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ri {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_rj {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_rj {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_rk {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_rk {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_rl {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_rl {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 7560px;
+}
+#Composant_14__267 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 9537px;
+	overflow: visible;
+}
+#Rectangle_9_rn {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_rn {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ro {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_rp {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_rp {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_rq {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_rq {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_rr {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_rs {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_rt {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_rt {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ru {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ru {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_rv {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_rv {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 8640px;
+}
+#Composant_14__268 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 10617px;
+	overflow: visible;
+}
+#Rectangle_9_rx {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_rx {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ry {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_rz {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_rz {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_r {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_r {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_r {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_r {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_r {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_r {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_sa {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_sa {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_r {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_r {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 9720px;
+}
+#Composant_14__269 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 11697px;
+	overflow: visible;
+}
+#Rectangle_9_r {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_r {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_r {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_sa {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_sa {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_sb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_sb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_sb {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_sc {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_sd {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_sd {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_se {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_se {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_sf {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_sf {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 10800px;
+}
+#Composant_14__270 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 12777px;
+	overflow: visible;
+}
+#Rectangle_9_sh {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_sh {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_si {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_sj {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_sj {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_sk {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_sk {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_sl {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_sm {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_sn {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_sn {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_so {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_so {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_sp {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_sp {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 11880px;
+}
+#Composant_14__271 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 13857px;
+	overflow: visible;
+}
+#Rectangle_9_sr {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_sr {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ss {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_st {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_st {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_su {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_su {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_sv {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_sw {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_sx {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_sx {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_sy {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_sy {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_sz {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_sz {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 12960px;
+}
+#Composant_14__272 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 14937px;
+	overflow: visible;
+}
+#Rectangle_9_s {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_s {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_s {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_s {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_s {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_s {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_s {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_s {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_s {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ta {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ta {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ta {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ta {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_s {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_s {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 14040px;
+}
+#Titre_et_sous_titre_ta {
+	position: absolute;
+	width: 1640px;
+	height: 331px;
+	left: 140px;
+	top: 188px;
+	overflow: visible;
+}
+#Tratologie_tb {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 279px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 230px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#Science_des_dformations {
+	left: 302px;
+	top: 276px;
+	position: absolute;
+	overflow: visible;
+	width: 1037px;
+	height: 55px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#Je_ne_suis_pas_un_animal__Je_s {
+	left: 328px;
+	top: 739px;
+	position: absolute;
+	overflow: visible;
+	width: 1265px;
+	height: 61px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(179,131,46,1);
+}
+#n_John_merrick__elephant_man_d {
+	left: 240px;
+	top: 807px;
+	position: absolute;
+	overflow: visible;
+	width: 1265px;
+	height: 114px;
+	text-align: right;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(179,131,46,1);
+	text-transform: capitalize;
+}
+#Ce_chapitre_du_mmoire_porte_su_tf {
+	left: 140px;
+	top: 1080px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 1053px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Lanatomie_est_la_science_qui_d {
+	left: 140px;
+	top: 2225px;
+	position: absolute;
+	overflow: visible;
+	width: 967px;
+	height: 1015px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Les_normes_anatomiques_science {
+	left: 140px;
+	top: 2160px;
+	position: absolute;
+	overflow: visible;
+	width: 1254px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#ovale-du-visage-acide-hyaluron {
+	position: absolute;
+	width: 336px;
+	height: 195px;
+	left: 1143px;
+	top: 2334px;
+	overflow: visible;
+}
+#ephelides {
+	position: absolute;
+	width: 315px;
+	height: 192px;
+	left: 1465px;
+	top: 2334px;
+	overflow: visible;
+}
+#Visages_avec_et_sans_taches_de {
+	left: 1228px;
+	top: 2551px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	height: 36px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Cas_de_polydactylie_ {
+	left: 1228px;
+	top: 3128px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	height: 36px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#rare-abnormal-characteristic-c {
+	position: absolute;
+	width: 603px;
+	height: 420px;
+	left: 1177px;
+	top: 2664px;
+	overflow: visible;
+}
+#La_tratologie_trouve_ses_racin {
+	left: 140px;
+	top: 3335px;
+	position: absolute;
+	overflow: visible;
+	width: 990px;
+	height: 999px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#De_la_rationalisation_des_mons {
+	left: 140px;
+	top: 3240px;
+	position: absolute;
+	overflow: visible;
+	width: 1313px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Gravure_de_divers_monstres_mdi {
+	left: 1162px;
+	top: 3696px;
+	position: absolute;
+	overflow: visible;
+	width: 563px;
+	height: 95px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#La_fe_Mlusine_une_Anguipde_Dta {
+	left: 1162px;
+	top: 4228px;
+	position: absolute;
+	overflow: visible;
+	width: 563px;
+	height: 61px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#royg96-m8b50 {
+	position: absolute;
+	width: 562px;
+	height: 388px;
+	left: 1162px;
+	top: 3304px;
+	overflow: visible;
+}
+#Fougres_35_glise_Saint-Sulpice {
+	position: absolute;
+	width: 562px;
+	height: 421px;
+	left: 1162px;
+	top: 3803px;
+	overflow: visible;
+}
+#Ces_monstres_tratologiques_et_ {
+	left: 140px;
+	top: 4350px;
+	position: absolute;
+	overflow: visible;
+	width: 967px;
+	height: 1017px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Un_homme_sans_tte_avec_les_yeu {
+	left: 1132px;
+	top: 5234px;
+	position: absolute;
+	overflow: visible;
+	width: 649px;
+	height: 98px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Unbekannt_Unbekannt_-_Trococit {
+	position: absolute;
+	width: 648px;
+	height: 873px;
+	left: 1132px;
+	top: 4330px;
+	overflow: visible;
+}
+#En_1573_le_chirurgien_Ambroise {
+	left: 140px;
+	top: 5400px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 545px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Illustrations_de_cas_tratologi {
+	left: 1055px;
+	top: 6378px;
+	position: absolute;
+	overflow: visible;
+	width: 613px;
+	height: 98px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Illustrations_de_cratures_chim {
+	left: 266px;
+	top: 6379px;
+	position: absolute;
+	overflow: visible;
+	width: 550px;
+	height: 98px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#img-1 {
+	position: absolute;
+	width: 262px;
+	height: 415px;
+	left: 269px;
+	top: 5959px;
+	overflow: visible;
+}
+#img-3 {
+	position: absolute;
+	width: 266px;
+	height: 415px;
+	left: 548px;
+	top: 5959px;
+	overflow: visible;
+}
+#img-4 {
+	position: absolute;
+	width: 202px;
+	height: 415px;
+	left: 1106px;
+	top: 5959px;
+	overflow: visible;
+}
+#img-6 {
+	position: absolute;
+	width: 293px;
+	height: 415px;
+	left: 1325px;
+	top: 5959px;
+	overflow: visible;
+}
+#Le_travail_de_Fortunio_Liceti_ {
+	left: 140px;
+	top: 6480px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 539px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Enfants_siamois {
+	left: 1260px;
+	top: 7442px;
+	position: absolute;
+	overflow: visible;
+	width: 521px;
+	height: 98px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Planche_dpeignant_des_individu {
+	left: 692px;
+	top: 7443px;
+	position: absolute;
+	overflow: visible;
+	width: 553px;
+	height: 98px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Monstres_chimriques_prsentant_ {
+	left: 140px;
+	top: 7443px;
+	position: absolute;
+	overflow: visible;
+	width: 553px;
+	height: 98px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#cynonphale_licetti {
+	position: absolute;
+	width: 561px;
+	height: 418px;
+	left: 692px;
+	top: 7021px;
+	overflow: visible;
+}
+#grotesques_licetti {
+	position: absolute;
+	width: 552px;
+	height: 417px;
+	left: 140px;
+	top: 7020px;
+	overflow: visible;
+}
+#siamoixslicetti {
+	position: absolute;
+	width: 527px;
+	height: 417px;
+	left: 1253px;
+	top: 7021px;
+	overflow: visible;
+}
+#Cette_mthode_danalyse_des_mons {
+	left: 140px;
+	top: 7560px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 1045px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Les_naturalistes_franais_tienn {
+	left: 140px;
+	top: 8705px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 442px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Parmi_les_scientifiques_du_17e {
+	left: 140px;
+	top: 9157px;
+	position: absolute;
+	overflow: visible;
+	width: 967px;
+	height: 479px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Deux_squelettes_denfants_siamo {
+	left: 1173px;
+	top: 9585px;
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 78px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#La_classification_tratologique {
+	left: 140px;
+	top: 8640px;
+	position: absolute;
+	overflow: visible;
+	width: 1674px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#B_C_Hirst__G_A_Piersol_Human_m {
+	position: absolute;
+	width: 277px;
+	height: 433px;
+	left: 1173px;
+	top: 9144px;
+	overflow: visible;
+}
+#a70ef74c18378e054b139abffe571a {
+	position: absolute;
+	width: 260px;
+	height: 433px;
+	left: 1483px;
+	top: 9144px;
+	overflow: visible;
+}
+#Cette_nomenclature_possde_cert {
+	left: 140px;
+	top: 9720px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 1016px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Planche_anatomique_des_diffren {
+	left: 1310px;
+	top: 11784px;
+	position: absolute;
+	overflow: visible;
+	width: 460px;
+	height: 78px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Dtail_de_la_classification_tra {
+	left: 201px;
+	top: 11784px;
+	position: absolute;
+	overflow: visible;
+	width: 997px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#dtail_classifi {
+	position: absolute;
+	width: 996px;
+	height: 596px;
+	left: 201px;
+	top: 11180px;
+	overflow: visible;
+}
+#sirnomlie {
+	position: absolute;
+	width: 359px;
+	height: 596px;
+	left: 1360px;
+	top: 11180px;
+	overflow: visible;
+}
+#Ces_termes_simplifis__la_compo {
+	left: 140px;
+	top: 10800px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 389px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Saint_hilaire_propose_dtudier_ {
+	left: 140px;
+	top: 11930px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 961px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Le_gant_Battista_Hugo_et_le_li {
+	left: 1244px;
+	top: 12768px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 78px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n_a00d8341c6c1753ef017d40c28ba {
+	position: absolute;
+	width: 534px;
+	height: 797px;
+	left: 1246px;
+	top: 11955px;
+	overflow: visible;
+}
+#Puisque_notre_tude_tratologiqu {
+	left: 140px;
+	top: 13025px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 447px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Enfant_Monopode_figurant_dans_ {
+	left: 461px;
+	top: 13942px;
+	position: absolute;
+	overflow: visible;
+	width: 354px;
+	height: 104px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Comparaison_entre_un_Crane_dlp {
+	left: 1090px;
+	top: 13942px;
+	position: absolute;
+	overflow: visible;
+	width: 691px;
+	height: 104px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Illustration_dun_sciapode_sabr {
+	left: 140px;
+	top: 13942px;
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	height: 104px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#ajmgc31856-fig-0007-m {
+	position: absolute;
+	width: 354px;
+	height: 469px;
+	left: 460px;
+	top: 13473px;
+	overflow: visible;
+}
+#tumblr_inline_o4jj0dStXB1tumq1 {
+	position: absolute;
+	width: 690px;
+	height: 470px;
+	left: 1090px;
+	top: 13473px;
+	overflow: visible;
+}
+#EAy42wVXUAA8j17 {
+	position: absolute;
+	width: 321px;
+	height: 469px;
+	left: 140px;
+	top: 13473px;
+	overflow: visible;
+}
+#Dissociation_des_monstres_myth {
+	left: 140px;
+	top: 12960px;
+	position: absolute;
+	overflow: visible;
+	width: 1424px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Les_mythologies_grecque_et_rom {
+	left: 140px;
+	top: 14046px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 487px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Alexandre_rencontre_le_peuple_ {
+	left: 140px;
+	top: 15008px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Enluminure_de_Blemmye {
+	left: 602px;
+	top: 15008px;
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Anomalies_acphales {
+	left: 960px;
+	top: 15008px;
+	position: absolute;
+	overflow: visible;
+	width: 423px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Orang-outan {
+	left: 1395px;
+	top: 15008px;
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#orangutan {
+	position: absolute;
+	width: 386px;
+	height: 449px;
+	left: 1394px;
+	top: 14540px;
+	overflow: visible;
+}
+#Royal_15_E_VI_fol-21v_sans_tes {
+	position: absolute;
+	width: 464px;
+	height: 448px;
+	left: 140px;
+	top: 14541px;
+	overflow: visible;
+}
+#blemmie_teratologie {
+	position: absolute;
+	width: 433px;
+	height: 449px;
+	left: 961px;
+	top: 14540px;
+	overflow: visible;
+}
+#n_00px-Blemmye {
+	position: absolute;
+	width: 363px;
+	height: 448px;
+	left: 598px;
+	top: 14541px;
+	overflow: visible;
+}
+#Composant_14__273 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 16017px;
+	overflow: visible;
+}
+#Rectangle_9_u {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_u {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_u {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_va {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_va {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_vb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_vb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_vc {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_vd {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ve {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ve {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_vf {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_vf {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_vg {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_vg {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 15120px;
+}
+#Les_cynocphales_sont_des_cratu {
+	left: 140px;
+	top: 15120px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 279px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Si_la_cynocphalie_est_un_carac {
+	left: 140px;
+	top: 16056px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 86px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Loup-garou {
+	left: 274px;
+	top: 15998px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Anubis {
+	left: 663px;
+	top: 15998px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#St-Christophe {
+	left: 1029px;
+	top: 15998px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Le_roi_Lycaon {
+	left: 1394px;
+	top: 15998px;
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n_30px-F2224_Louvre_Anubis_rwk {
+	position: absolute;
+	width: 325px;
+	height: 578px;
+	left: 606px;
+	top: 15399px;
+	overflow: visible;
+}
+#Lycaoncyno {
+	position: absolute;
+	width: 425px;
+	height: 575px;
+	left: 1317px;
+	top: 15399px;
+	overflow: visible;
+}
+#Saint_christopher_cynocephalus {
+	position: absolute;
+	width: 311px;
+	height: 578px;
+	left: 984px;
+	top: 15399px;
+	overflow: visible;
+}
+#wolf-boy1192303749 {
+	position: absolute;
+	width: 364px;
+	height: 576px;
+	left: 203px;
+	top: 15399px;
+	overflow: visible;
+}
+#Composant_14__274 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 17097px;
+	overflow: visible;
+}
+#Rectangle_9_vs {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_vs {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_vt {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_vu {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_vu {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_vv {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_vv {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_vw {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_vx {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_vy {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_vy {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_vz {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_vz {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_v {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_v {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 16200px;
+}
+#Composant_14__275 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 18177px;
+	overflow: visible;
+}
+#Rectangle_9_v {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_v {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_v {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_v {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_v {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_v {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_v {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_v {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_v {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_wa {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_wa {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_wa {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_wa {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_wa {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_wa {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 17280px;
+}
+#Composant_14__277 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 19257px;
+	overflow: visible;
+}
+#Rectangle_9_wc {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_wc {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_wd {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_we {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_we {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_wf {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_wf {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_wg {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_wh {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_wi {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_wi {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_wj {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_wj {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_wk {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_wk {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 18360px;
+}
+#Deux_explications_servent__rat {
+	left: 140px;
+	top: 16200px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 348px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Ainsi_lorigine_de_nombreux_mon {
+	left: 140px;
+	top: 17009px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 232px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Cynocphales_habills {
+	left: 222px;
+	top: 16959px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Babouin_bipde {
+	left: 915px;
+	top: 16959px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Babouin_montrant_des_crocs_et_ {
+	left: 1196px;
+	top: 16959px;
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Cas_dhypertrichose_chez_lHomme {
+	left: 519px;
+	top: 16959px;
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#tricho {
+	position: absolute;
+	width: 377px;
+	height: 368px;
+	left: 519px;
+	top: 16579px;
+	overflow: visible;
+}
+#monke {
+	position: absolute;
+	width: 253px;
+	height: 368px;
+	left: 917px;
+	top: 16579px;
+	overflow: visible;
+}
+#babouin-3 {
+	position: absolute;
+	width: 492px;
+	height: 369px;
+	left: 1196px;
+	top: 16579px;
+	overflow: visible;
+}
+#EgVRRB1X0AAVSHu {
+	position: absolute;
+	width: 278px;
+	height: 368px;
+	left: 222px;
+	top: 16579px;
+	overflow: visible;
+}
+#La_classification_de_Saint-Hil {
+	left: 140px;
+	top: 17345px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 937px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Diagnostic_tratologique_des_mo {
+	left: 140px;
+	top: 17280px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#tableau_tratologie {
+	position: absolute;
+	width: 1002px;
+	height: 1036px;
+	left: 459px;
+	top: 18320px;
+	overflow: visible;
+}
+#Composant_14__276 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 20337px;
+	overflow: visible;
+}
+#Rectangle_9_wz {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_wz {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_xa {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_w {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_w {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_w {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_w {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_w {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_w {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_xa {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_xa {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_xa {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_xa {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_w {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_w {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 19440px;
+}
+#De_cette_collecte_je_relve_cer {
+	left: 140px;
+	top: 19440px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 537px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#diagno {
+	left: 530px;
+	top: 19350px;
+	position: absolute;
+	overflow: visible;
+	width: 919px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	z-index: 99;
+	color: rgba(0,0,0,1);
+}
+#Yamata-no-Orochi_gauche_et_Hyd {
+	left: 135px;
+	top: 20433px;
+	position: absolute;
+	overflow: visible;
+	width: 919px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Blemmye_gauche_et_Donotsura_dr {
+	left: 1118px;
+	top: 20433px;
+	position: absolute;
+	overflow: visible;
+	width: 658px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#dounotsura {
+	position: absolute;
+	width: 303px;
+	height: 390px;
+	left: 1472px;
+	top: 20033px;
+	overflow: visible;
+}
+#orochi {
+	position: absolute;
+	width: 422px;
+	height: 384px;
+	left: 135px;
+	top: 20033px;
+	overflow: visible;
+}
+#Hercules_Killing_the_Lernean_H {
+	position: absolute;
+	width: 496px;
+	height: 386px;
+	left: 557px;
+	top: 20033px;
+	overflow: visible;
+}
+#Blemmyes-gallica-12148-btv1b84 {
+	position: absolute;
+	width: 354px;
+	height: 388px;
+	left: 1118px;
+	top: 20033px;
+	overflow: visible;
+}
+#Composant_14__278 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 21417px;
+	overflow: visible;
+}
+#Rectangle_9_xg {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_xg {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_xh {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_xi {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_xi {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_xj {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_xj {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_xk {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_xl {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_xm {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_xm {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_xn {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_xn {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_xo {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_xo {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 20520px;
+}
+#Composant_14__279 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 22497px;
+	overflow: visible;
+}
+#Rectangle_9_xq {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_xq {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_xr {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_xs {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_xs {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_xt {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_xt {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_xu {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_xv {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_xw {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_xw {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_xx {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_xx {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_xy {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_xy {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 21600px;
+}
+#Composant_14__280 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 23577px;
+	overflow: visible;
+}
+#Rectangle_9_x {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_x {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_x {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ya {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ya {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_x {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_x {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_x {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_x {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_yb {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_yb {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ya {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ya {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_x {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_x {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 22680px;
+}
+#Composant_14__281 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 24657px;
+	overflow: visible;
+}
+#Rectangle_9_ya {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_ya {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_yb {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_yc {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_yc {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_yd {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_yd {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ye {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_yf {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_yg {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_yg {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_yh {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_yh {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_yi {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_yi {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 23760px;
+}
+#Composant_14__282 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 25737px;
+	overflow: visible;
+}
+#Rectangle_9_yk {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_yk {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_yl {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ym {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ym {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_yn {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_yn {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_yo {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_yp {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_yq {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_yq {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_yr {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_yr {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_ys {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_ys {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 24840px;
+}
+#Composant_14__283 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 26817px;
+	overflow: visible;
+}
+#Rectangle_9_yu {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_yu {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_yv {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_yw {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_yw {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_yx {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_yx {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_yy {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_yz {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_y {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_y {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_za {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_za {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_y {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_y {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 25920px;
+}
+#Composant_14__284 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 27897px;
+	overflow: visible;
+}
+#Rectangle_9_y {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_y {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_y {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_za {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_za {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_zb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_zb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_y {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_y {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_zb {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_zb {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_zc {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_zc {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_zc {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_zc {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 27000px;
+}
+#Composant_14__286 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 28977px;
+	overflow: visible;
+}
+#Rectangle_9_ze {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_ze {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_zf {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_zg {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_zg {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_zh {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_zh {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_zi {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_zj {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_zk {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_zk {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_zl {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_zl {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_zm {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_zm {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 28080px;
+}
+#Composant_14__287 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 30057px;
+	overflow: visible;
+}
+#Rectangle_9_zo {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_zo {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_zp {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_zq {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_zq {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_zr {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_zr {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_zs {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_zt {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_zu {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_zu {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_zv {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_zv {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_zw {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_zw {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 29160px;
+}
+#Composant_14__288 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 31137px;
+	overflow: visible;
+}
+#Rectangle_9_zy {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_zy {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_zz {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_z {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_z {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_z {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_z {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_z {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_z {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_a {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_a {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_a {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_a {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_z {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_z {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 30240px;
+}
+#Composant_14__289 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 32217px;
+	overflow: visible;
+}
+#Rectangle_9_z {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_z {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_z {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_j {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_j {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_j {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_j {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_j {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_j {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_k {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_k {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_k {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_k {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_g {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_g {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 31320px;
+}
+#Composant_14__290 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 33297px;
+	overflow: visible;
+}
+#Rectangle_9_j {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_j {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_j {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_l {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_l {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_l {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_l {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_m {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_n {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_t {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_t {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_t {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_t {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_t {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_t {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 32400px;
+}
+#Composant_14__291 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 34377px;
+	overflow: visible;
+}
+#Rectangle_9_t {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_t {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_t {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_u {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_u {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_m {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_m {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_a {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_m {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_m {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_n {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_n {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_ {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_ {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 33480px;
+}
+#Composant_14__292 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 35457px;
+	overflow: visible;
+}
+#Rectangle_9_a {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_a {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_a {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_n {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_n {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_u {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_u {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_k {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_a {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_baa {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_baa {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_baa {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_baa {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_a {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_a {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 34560px;
+}
+#Composant_14__293 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 36537px;
+	overflow: visible;
+}
+#Rectangle_9_k {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_k {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_k {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_bab {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bab {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bab {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bab {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_l {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_k {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bac {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bac {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bac {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bac {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_k {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_k {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 35640px;
+}
+#Composant_14__294 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 37617px;
+	overflow: visible;
+}
+#Rectangle_9_m {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_m {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_n {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_bad {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bad {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bad {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bad {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_t {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_t {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bae {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bae {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bae {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bae {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_u {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_u {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 36720px;
+}
+#Composant_14__295 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1840px;
+	top: 38690px;
+	overflow: visible;
+}
+#Composant_13__1_n {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_l {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_baf {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_baf {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_baf {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_baf {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_b {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_b {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 37800px;
+}
+#Je_remarque_aussi_que_contrair {
+	left: 141px;
+	top: 20520px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 269px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Beaucoup_des_sujets_prsents_da {
+	left: 140px;
+	top: 21460px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 126px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n__Nurarihyon_par_Sawaki_Suush {
+	left: 213px;
+	top: 21415px;
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Divers_Yokai_par_Shigeru_mizuk {
+	left: 879px;
+	top: 21415px;
+	position: absolute;
+	overflow: visible;
+	width: 818px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Suuhi_Nurarihyon {
+	position: absolute;
+	width: 519px;
+	height: 600px;
+	left: 213px;
+	top: 20799px;
+	overflow: visible;
+}
+#Yokai_page {
+	position: absolute;
+	width: 817px;
+	height: 602px;
+	left: 879px;
+	top: 20799px;
+	overflow: visible;
+}
+#Aprs_avoir_vu_comment_une_appr {
+	left: 140px;
+	top: 22165px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 499px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#On_remarque_que_le_dragon_est_ {
+	left: 140px;
+	top: 21665px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 122px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Amphisbne {
+	left: 342px;
+	top: 22094px;
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Feiyi {
+	left: 781px;
+	top: 22094px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Balaur {
+	left: 1188px;
+	top: 22094px;
+	position: absolute;
+	overflow: visible;
+	width: 392px;
+	height: 39px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n____ {
+	position: absolute;
+	width: 335px;
+	height: 293px;
+	left: 342px;
+	top: 21787px;
+	overflow: visible;
+}
+#feiyi {
+	position: absolute;
+	width: 303px;
+	height: 293px;
+	left: 781px;
+	top: 21787px;
+	overflow: visible;
+}
+#balaur {
+	position: absolute;
+	width: 391px;
+	height: 293px;
+	left: 1188px;
+	top: 21787px;
+	overflow: visible;
+}
+#Phylognies_et_Tratologie_des_d {
+	left: 140px;
+	top: 21600px;
+	position: absolute;
+	overflow: visible;
+	width: 738px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Cest_prcisment_ce_que_je_cherc {
+	left: 140px;
+	top: 23588px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 128px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Classement_morphologique_Ce_pr {
+	left: 140px;
+	top: 22680px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 901px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#phylognie_dragon_morphologique {
+	position: absolute;
+	width: 672px;
+	height: 674px;
+	left: 1108px;
+	top: 22723px;
+	overflow: visible;
+}
+#Cependant_ce_modle_possde_plus {
+	left: 140px;
+	top: 24191px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 157px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Classement_phylogntiques_Si_lo {
+	left: 140px;
+	top: 23760px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 416px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Il_parat_plus_logique_de_consi {
+	left: 140px;
+	top: 24363px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 463px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#phylognie_ancetre_serpent {
+	position: absolute;
+	width: 674px;
+	height: 372px;
+	left: 1106px;
+	top: 23755px;
+	overflow: visible;
+}
+#phylognie_dragon_actuelle {
+	position: absolute;
+	width: 674px;
+	height: 485px;
+	left: 1106px;
+	top: 24300px;
+	overflow: visible;
+}
+#En_appliquant_ainsi_les_outils {
+	left: 140px;
+	top: 24905px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 609px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Tratologie_du_dragon {
+	left: 138px;
+	top: 24840px;
+	position: absolute;
+	overflow: visible;
+	width: 417px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#vsh28jai {
+	position: absolute;
+	width: 441px;
+	height: 341px;
+	left: 925px;
+	top: 25514px;
+	overflow: visible;
+}
+#zmei {
+	position: absolute;
+	width: 339px;
+	height: 338px;
+	left: 586px;
+	top: 25514px;
+	overflow: visible;
+}
+#l-hydra-hambourg-par-du-thesau {
+	position: absolute;
+	width: 446px;
+	height: 340px;
+	left: 140px;
+	top: 25514px;
+	overflow: visible;
+}
+#tiamat {
+	position: absolute;
+	width: 418px;
+	height: 341px;
+	left: 1363px;
+	top: 25514px;
+	overflow: visible;
+}
+#Hydre_de_Hambourg_ {
+	left: 140px;
+	top: 25855px;
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Zmei_slave {
+	left: 586px;
+	top: 25855px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Ananta_hindou {
+	left: 925px;
+	top: 25855px;
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#carto_dragon_1 {
+	left: 1250px;
+	top: 23435px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	z-index: 99;
+}
+#carto_dragon_2 {
+	left: 1170px;
+	top: 24110px;
+	position: absolute;
+	overflow: visible;
+	width: 550px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	z-index: 99;
+}
+#carto_dragon_3 {
+	left: 1050px;
+	top: 24780px;
+	position: absolute;
+	overflow: visible;
+	width: 800px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	z-index: 99;
+}
+#carto_dragon_4 {
+	left: 1050px;
+	top: 29055px;
+	position: absolute;
+	overflow: visible;
+	width: 605px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	z-index: 99;
+}
+#Tiamat_Donjons_et_dragons {
+	left: 1366px;
+	top: 25855px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	height: 40px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#La_polycphalie_est_sans_contes {
+	left: 140px;
+	top: 25940px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 235px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#nkjenvkjdfvkjdfnvkdfvkdkgjdhkg {
+	left: 140px;
+	top: 26840px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 123px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Couleuvre_agile_Coluber_constr {
+	left: 245px;
+	top: 26764px;
+	position: absolute;
+	overflow: visible;
+	width: 856px;
+	height: 43px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Reprsentations_trusques_et_gyp {
+	left: 1274px;
+	top: 26764px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 69px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n_01022-two-headed-reptile-2x1 {
+	position: absolute;
+	width: 849px;
+	height: 565px;
+	left: 245px;
+	top: 26190px;
+	overflow: visible;
+}
+#n_8533361737_b911188327_b {
+	position: absolute;
+	width: 401px;
+	height: 265px;
+	left: 1274px;
+	top: 26490px;
+	overflow: visible;
+}
+#dscf2634 {
+	position: absolute;
+	width: 401px;
+	height: 297px;
+	left: 1274px;
+	top: 26190px;
+	overflow: visible;
+}
+#Puisque_toute_tude_tratologiqu {
+	left: 140px;
+	top: 28361px;
+	position: absolute;
+	overflow: visible;
+	width: 712px;
+	height: 682px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#tratologie_dragon {
+	position: absolute;
+	width: 869px;
+	height: 678px;
+	left: 911px;
+	top: 28365px;
+	overflow: visible;
+}
+#De_la_mme_manire_que_les_autre {
+	left: 140px;
+	top: 28090px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 240px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Je_terminerais_cette_partie_su {
+	left: 140px;
+	top: 29160px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 126px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Le_dragon__plusieurs_ttes_repr {
+	left: 140px;
+	top: 29917px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 312px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Jtais_en_un_lieu_sr_lorsque_je {
+	left: 339px;
+	top: 29292px;
+	position: absolute;
+	overflow: visible;
+	width: 614px;
+	height: 259px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(179,131,46,1);
+}
+#Je_rvais__cette_aventure_Quand {
+	left: 339px;
+	top: 29563px;
+	position: absolute;
+	overflow: visible;
+	width: 614px;
+	height: 333px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(179,131,46,1);
+}
+#plusieurs_queues {
+	position: absolute;
+	width: 357px;
+	height: 293px;
+	left: 1240px;
+	top: 29292px;
+	overflow: visible;
+}
+#plusieurs_tetes {
+	position: absolute;
+	width: 357px;
+	height: 294px;
+	left: 1240px;
+	top: 29602px;
+	overflow: visible;
+}
+#Les_monstres_comme_les_objets_ {
+	left: 140px;
+	top: 30305px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 472px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Une_tratologie_de_lobjet_ {
+	left: 140px;
+	top: 30240px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#ed9a2ea954b20289073f239fef761f {
+	position: absolute;
+	width: 418px;
+	height: 419px;
+	left: 337px;
+	top: 30794px;
+	overflow: visible;
+}
+#issue27phylogenetics3_l {
+	position: absolute;
+	width: 338px;
+	height: 419px;
+	left: 1245px;
+	top: 30794px;
+	overflow: visible;
+}
+#pictures-of-different-pastas-4 {
+	position: absolute;
+	width: 279px;
+	height: 419px;
+	left: 940px;
+	top: 30794px;
+	overflow: visible;
+}
+#Rosette_de_diffrentes_espces_d {
+	left: 337px;
+	top: 31226px;
+	position: absolute;
+	overflow: visible;
+	width: 419px;
+	height: 84px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Collections_de_deux_typologies {
+	left: 940px;
+	top: 31226px;
+	position: absolute;
+	overflow: visible;
+	width: 644px;
+	height: 94px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#En_appliquant_la_mme_mthode_de {
+	left: 140px;
+	top: 31430px;
+	position: absolute;
+	overflow: visible;
+	width: 800px;
+	height: 761px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Phylognie_et_parent_morphologi {
+	left: 140px;
+	top: 31320px;
+	position: absolute;
+	overflow: visible;
+	width: 1089px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Classification_des_objets_de_q {
+	left: 1060px;
+	top: 32300px;
+	position: absolute;
+	overflow: visible;
+	width: 616px;
+	height: 55px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#phylognie_quincaillerie {
+	position: absolute;
+	width: 780px;
+	height: 900px;
+	left: 1000px;
+	top: 31350px;
+	overflow: visible;
+}
+#Dans_The_evolution_of_designs_ {
+	left: 140px;
+	top: 32400px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 252px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#volution_de_la_morphologie_des {
+	left: 1126px;
+	top: 33359px;
+	position: absolute;
+	overflow: visible;
+	width: 562px;
+	height: 69px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#heaumes {
+	position: absolute;
+	width: 561px;
+	height: 686px;
+	left: 1126px;
+	top: 32638px;
+	overflow: visible;
+}
+#slide_7 {
+	position: absolute;
+	width: 814px;
+	height: 493px;
+	left: 233px;
+	top: 32774px;
+	overflow: visible;
+}
+#Schma_du_principe_de_course_au {
+	left: 233px;
+	top: 33359px;
+	position: absolute;
+	overflow: visible;
+	width: 786px;
+	height: 64px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Le_mathmaticien_cossais_DArcy_ {
+	left: 140px;
+	top: 33500px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 423px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Diversit_morphologiques_des_di {
+	left: 984px;
+	top: 34411px;
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 64px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Principe_de_dformation_morphol {
+	left: 140px;
+	top: 34411px;
+	position: absolute;
+	overflow: visible;
+	width: 821px;
+	height: 64px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#a-236004 {
+	position: absolute;
+	width: 796px;
+	height: 435px;
+	left: 984px;
+	top: 33931px;
+	overflow: visible;
+}
+#poissons {
+	position: absolute;
+	width: 805px;
+	height: 440px;
+	left: 140px;
+	top: 33931px;
+	overflow: visible;
+}
+#Le_terme_de_monstre_est_parfoi {
+	left: 140px;
+	top: 34640px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 991px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Des_monstres_chez_les_objets {
+	left: 140px;
+	top: 34560px;
+	position: absolute;
+	overflow: visible;
+	width: 582px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Maquettes_monstres_dun_caddie_ {
+	left: 1165px;
+	top: 35556px;
+	position: absolute;
+	overflow: visible;
+	width: 488px;
+	height: 64px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#maquette_2 {
+	position: absolute;
+	width: 371px;
+	height: 504px;
+	left: 1287px;
+	top: 34615px;
+	overflow: visible;
+}
+#maquette_1 {
+	position: absolute;
+	width: 487px;
+	height: 384px;
+	left: 1165px;
+	top: 35140px;
+	overflow: visible;
+}
+#Ces_clous__pointe_difforme_fon {
+	left: 140px;
+	top: 35932px;
+	position: absolute;
+	overflow: hidden;
+	width: 951px;
+	height: 708px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Mais_alors_comment_lanomalie_p {
+	left: 140px;
+	top: 35640px;
+	position: absolute;
+	overflow: visible;
+	width: 1598px;
+	height: 260px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Clous_dfctueux {
+	left: 1262px;
+	top: 36175px;
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	height: 42px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Chaise_Golgotha_Gaetano_Pesce {
+	left: 1262px;
+	top: 36637px;
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	height: 42px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#n__ {
+	position: absolute;
+	width: 380px;
+	height: 278px;
+	left: 1262px;
+	top: 35889px;
+	overflow: visible;
+}
+#Golgotha-GPesce-Bracciodiferro {
+	position: absolute;
+	width: 646px;
+	height: 412px;
+	left: 1117px;
+	top: 36217px;
+	overflow: visible;
+}
+#Enfin_un_autre_moyen_de_simule {
+	left: 140px;
+	top: 36720px;
+	position: absolute;
+	overflow: visible;
+	width: 1598px;
+	height: 343px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Utiliss_de_cette_manire_les_ou {
+	left: 140px;
+	top: 37527px;
+	position: absolute;
+	overflow: visible;
+	width: 1598px;
+	height: 228px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Gnration_automatique_de_modles {
+	left: 1036px;
+	top: 37445px;
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 61px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Diffrentes_itrations_du_vase_4 {
+	left: 200px;
+	top: 37445px;
+	position: absolute;
+	overflow: visible;
+	width: 700px;
+	height: 61px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Vase44SerieIn-Flexions1 {
+	position: absolute;
+	width: 589px;
+	height: 393px;
+	left: 262px;
+	top: 37052px;
+	overflow: visible;
+}
+#n_71_2018_1589_Fig9_HTML {
+	position: absolute;
+	width: 701px;
+	height: 395px;
+	left: 1036px;
+	top: 37049px;
+	overflow: visible;
+}
+#Inversement_si_les_progrs_du_n {
+	left: 140px;
+	top: 37800px;
+	position: absolute;
+	overflow: visible;
+	width: 829px;
+	height: 1040px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Visages_anonymes_produits_par_ {
+	left: 1106px;
+	top: 38754px;
+	position: absolute;
+	overflow: visible;
+	width: 616px;
+	height: 73px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#tpdne_monstre_1 {
+	position: absolute;
+	width: 290px;
+	height: 275px;
+	left: 1106px;
+	top: 37800px;
+	overflow: visible;
+}
+#tpdne_monstre_6 {
+	position: absolute;
+	width: 289px;
+	height: 274px;
+	left: 1107px;
+	top: 38122px;
+	overflow: visible;
+}
+#tpdne_monstre_3 {
+	position: absolute;
+	width: 290px;
+	height: 289px;
+	left: 1107px;
+	top: 38444px;
+	overflow: visible;
+}
+#tpdne_monstre_5 {
+	position: absolute;
+	width: 278px;
+	height: 275px;
+	left: 1443px;
+	top: 37800px;
+	overflow: visible;
+}
+#tpdne_monstre_4 {
+	position: absolute;
+	width: 278px;
+	height: 278px;
+	left: 1443px;
+	top: 38123px;
+	overflow: visible;
+}
+#tpdne_monstre_2 {
+	position: absolute;
+	width: 288px;
+	height: 287px;
+	left: 1443px;
+	top: 38443px;
+	overflow: visible;
+}
+#Lamphisbne_est_une_espce_de_lz {
+	left: 140px;
+	top: 27137px;
+	position: absolute;
+	overflow: visible;
+	width: 667px;
+	height: 426px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_ces_cas_tratologiques_sajout {
+	left: 140px;
+	top: 27000px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 185px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Si_lamphisbne_mythologique_et_ {
+	left: 999px;
+	top: 27137px;
+	position: absolute;
+	overflow: visible;
+	width: 667px;
+	height: 426px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#DlyzMuIWsAAn1FD {
+	position: absolute;
+	width: 420px;
+	height: 263px;
+	left: 516px;
+	top: 27622px;
+	overflow: visible;
+}
+#imagem-cobra-de-duas-cabecas {
+	position: absolute;
+	width: 394px;
+	height: 263px;
+	left: 140px;
+	top: 27622px;
+	overflow: visible;
+}
+#bipes_biporus {
+	position: absolute;
+	width: 521px;
+	height: 263px;
+	left: 999px;
+	top: 27622px;
+	overflow: visible;
+}
+#Perindeus_tree_3244 {
+	position: absolute;
+	width: 268px;
+	height: 264px;
+	left: 1512px;
+	top: 27622px;
+	overflow: visible;
+}
+#photographie_dAmphisbaena_alba {
+	left: 140px;
+	top: 27907px;
+	position: absolute;
+	overflow: hidden;
+	width: 399px;
+	height: 86px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Premire_reprsentation_zoologiq {
+	left: 538px;
+	top: 27907px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 114px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Photographie_de_Bipes_biporus_ {
+	left: 999px;
+	top: 27907px;
+	position: absolute;
+	overflow: visible;
+	width: 514px;
+	height: 114px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Enluminure_de_Lyndwrm_mytholog {
+	left: 1512px;
+	top: 27907px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 114px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Ligne_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1.5px;
+	height: 396px;
+	left: 968px;
+	top: 27144px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_11__3 {
+	position: absolute;
+	width: 1812px;
+	height: 96px;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_2_ {
+	position: absolute;
+	width: 1812px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_26 {
+	position: absolute;
+	width: 1705px;
+	height: 96px;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+#Chimres_ {
+	left: 689px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page_Chimeres.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Croque-mitaines_ {
+	left: 998px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 37px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page_Croquemitaines.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Introduction_ {
+	left: 32px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	--web-animation: fadein 0.5s linear;
+	--web-action-type: page;
+	--web-action-target: page_d_accueil.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Tratologie_ {
+	left: 1445px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(179,131,46,1);
+}
+
+
+/*burger*/
+
+
+
+
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+}
+body {
+    background: #fff;
+    padding: 0;
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+}
+.header {
+    display: block;
+    margin: 0 auto;
+    width: 6%;
+    max-width: 100%;
+    box-shadow: none;
+    background-color: none;
+    position: fixed;
+    height: 60px!important;
+    overflow: hidden;
+    z-index: 10;
+}
+.main {
+    margin: 0 auto;
+    display: block;
+    height: 100%;
+    margin-top: 60px;
+}
+.mainInner{
+    display: table;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.mainInner div{
+    display:table-cell;
+    vertical-align: middle;
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 1.25px;
+}
+#sidebarMenu {
+    height: 100%;
+    position: fixed;
+    left: 0;
+    width: 500px;
+    margin-top: 60px;
+    transform: translateX(-500px);
+    transition: transform 250ms ease-in-out;
+    background:#f5f5f5 0%;
+	box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+}
+.sidebarMenuInner{
+    margin:0;
+    padding:0;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+}
+.sidebarMenuInner li{
+    list-style: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.sidebarMenuInner li a{
+    color: #776950;
+	font-family: cormorant;
+	font-size: 20px;
+	font-weight: 600;
+	transition-duration: .25s;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+	padding-left: 20px;
+}
+
+.sidebarMenuInner li:hover {
+	background-color: #fff;
+  }
+
+.sidebarMenuInner li h1 a{
+    color: #776950;
+	font-family: cormorant;
+	font-size: 25px;
+	font-weight: 1000;
+	transition-duration: .25s;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+input[type="checkbox"]:checked ~ #sidebarMenu {
+    transform: translateX(0);
+}
+
+input[type=checkbox] {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    display: none;
+}
+.sidebarIconToggle {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    cursor: pointer;
+    position: fixed;
+    z-index: 99;
+    height: 100%;
+    width: 100%;
+    top: 22px;
+    left: 15px;
+    height: 22px;
+    width: 22px;
+}
+.spinner {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background-color: #776950;
+}
+.horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+.diagonal.part-1 {
+    position: relative;
+    transition: all 0.3s;
+    box-sizing: border-box;
+    float: left;
+}
+.diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    opacity: 0;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-1 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(135deg);
+    margin-top: 8px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(-135deg);
+    margin-top: -9px;
+}

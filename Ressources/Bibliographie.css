@@ -1,0 +1,1012 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+.mediaViewInfo {
+	--web-view-name:Bibliographie;
+	--web-view-id: Bibliographie;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Page_Teratologie;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Page_Teratologie {
+	position: absolute;
+	width: 1920px;
+	height: 6479px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Page Teratologie;
+	--web-view-id: Page_Teratologie;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+html {
+	scroll-behavior: smooth;
+  }
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+}
+#Rectangle_3 {
+	opacity: 0.06;
+	fill: rgba(119,105,80,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 6478px;
+	left: 0px;
+	top: 1px;
+}
+#Composant_14__178 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1840px;
+	top: 950px;
+	overflow: visible;
+}
+#Composant_12__1 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1 {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1 {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 0px;
+}
+#Rectangle_77 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 5400px;
+}
+#Composant_14__260 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 1977px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_p {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_q {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_q {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_r {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_r {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25 {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_u {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_u {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_v {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_v {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_14__261 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 3056px;
+	overflow: visible;
+}
+#Rectangle_9_x {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_x {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_y {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_z {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_z {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_ {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_ {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_ba {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_ba {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_14__262 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 4136.5px;
+	overflow: visible;
+}
+#Rectangle_9_ {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_ {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_ {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_ba {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_ba {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bb {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bb {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_ba {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_bb {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bc {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bc {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bd {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bd {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_14__263 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 5216.5px;
+	overflow: visible;
+}
+#Rectangle_9_bf {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_bf {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_12__1_bg {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 69px;
+	overflow: visible;
+}
+#Ellipse_2_bh {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bh {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bi {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bi {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_13__1_bj {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_bk {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_bl {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_bl {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bm {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bm {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_14__264 {
+	position: absolute;
+	width: 107px;
+	height: 138px;
+	left: 1813px;
+	top: 6295.5px;
+	overflow: visible;
+}
+#Rectangle_9_bo {
+	fill: rgba(247,246,245,1);
+}
+.Rectangle_9_bo {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_13__1_bp {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_25_bq {
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_2_br {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2_br {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#Soustraction_1_bs {
+	fill: rgba(179,131,46,0.439);
+}
+.Soustraction_1_bs {
+	overflow: visible;
+	position: absolute;
+	width: 33.631px;
+	height: 29.988px;
+	left: 9.685px;
+	top: 10.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_73_bt {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_bt {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 1080px;
+}
+#Rectangle_74 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 2160px;
+}
+#Rectangle_75 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 3240px;
+}
+#Rectangle_76 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_76 {
+	position: absolute;
+	overflow: visible;
+	width: 1705px;
+	height: 1080px;
+	left: 108px;
+	top: 4320px;
+}
+#Titre_et_sous_titre {
+	position: absolute;
+	width: 1640px;
+	height: 60px;
+	left: 140px;
+	top: 96px;
+	overflow: visible;
+}
+#Bibliographie {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 60px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#Titre_et_sous_titre_bz {
+	position: absolute;
+	width: 1640px;
+	height: 60px;
+	left: 140px;
+	top: 5400px;
+	overflow: visible;
+}
+#Remerciements {
+	left: 0px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 60px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(119,105,80,1);
+	text-transform: uppercase;
+}
+#Livres_-_CHARLIER_Philippe_Les {
+	left: 140px;
+	top: 220px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 860px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Merci__Monsieur_Pierre_Bourdar {
+	left: 140px;
+	top: 5510px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 860px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Livres_-_CARROLL_Lewis_et_BEER {
+	left: 140px;
+	top: 1190px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 1025px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Livres_-_HOFFMANN_Heinrich_Pie {
+	left: 140px;
+	top: 2180px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 1025px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Livres_-_ANCET_Pierre_Phenomen {
+	left: 140px;
+	top: 3295px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 2105px;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Monstres {
+	left: 140px;
+	top: 154px;
+	position: absolute;
+	overflow: visible;
+	width: 1254px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#lienmiro {
+	left: 320px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 1254px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Chimres {
+	left: 140px;
+	top: 1100px;
+	position: absolute;
+	overflow: visible;
+	width: 1254px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#croque-mitaines {
+	left: 140px;
+	top: 2180px;
+	position: absolute;
+	overflow: visible;
+	width: 1254px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Tratologie {
+	left: 140px;
+	top: 3260px;
+	position: absolute;
+	overflow: visible;
+	width: 1254px;
+	height: 55px;
+	text-align: left;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(119,105,80,1);
+	text-transform: capitalize;
+}
+#Groupe_26 {
+	position: absolute;
+	width: 1718px;
+	height: 40px;
+	left: 95px;
+	top: 27px;
+	overflow: visible;
+}
+#Chimres_cb {
+	left: 702px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Croque-mitaines_cc {
+	left: 1011px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 37px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Introduction {
+	left: -30px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+#Tratologie_ce {
+	left: 1458px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 37px;
+	text-align: center;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(119,105,80,1);
+}
+
+/*burger*/
+
+
+
+
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+}
+body {
+    background: #fff;
+    padding: 0;
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+}
+.header {
+    display: block;
+    margin: 0 auto;
+    width: 6%;
+    max-width: 100%;
+    box-shadow: none;
+    background-color: none;
+    position: fixed;
+    height: 60px!important;
+    overflow: hidden;
+    z-index: 10;
+}
+.main {
+    margin: 0 auto;
+    display: block;
+    height: 100%;
+    margin-top: 60px;
+}
+.mainInner{
+    display: table;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.mainInner div{
+    display:table-cell;
+    vertical-align: middle;
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 1.25px;
+}
+#sidebarMenu {
+    height: 100%;
+    position: fixed;
+    left: 0;
+    width: 500px;
+    margin-top: 60px;
+    transform: translateX(-500px);
+    transition: transform 250ms ease-in-out;
+    background:#f5f5f5 0%;
+	box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+}
+.sidebarMenuInner{
+    margin:0;
+    padding:0;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+}
+.sidebarMenuInner li{
+    list-style: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.sidebarMenuInner li a{
+    color: #776950;
+	font-family: cormorant;
+	font-size: 20px;
+	font-weight: 600;
+	transition-duration: .25s;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+	padding-left: 20px;
+}
+
+.sidebarMenuInner li:hover {
+	background-color: #fff;
+  }
+
+.sidebarMenuInner li h1 a{
+    color: #776950;
+	font-family: cormorant;
+	font-size: 25px;
+	font-weight: 1000;
+	transition-duration: .25s;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+input[type="checkbox"]:checked ~ #sidebarMenu {
+    transform: translateX(0);
+}
+
+input[type=checkbox] {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    display: none;
+}
+.sidebarIconToggle {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    cursor: pointer;
+    position: fixed;
+    z-index: 99;
+    height: 100%;
+    width: 100%;
+    top: 22px;
+    left: 15px;
+    height: 22px;
+    width: 22px;
+}
+.spinner {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background-color: #776950;
+}
+.horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+.diagonal.part-1 {
+    position: relative;
+    transition: all 0.3s;
+    box-sizing: border-box;
+    float: left;
+}
+.diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    opacity: 0;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-1 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(135deg);
+    margin-top: 8px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(-135deg);
+    margin-top: -9px;
+}
